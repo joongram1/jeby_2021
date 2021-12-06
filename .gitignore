@@ -198,4 +198,7 @@ Temporary Items
 # Support for Project snippet scope
 !.vscode/*.code-snippets
 
+# Django secret file
+secrets.json
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,django
